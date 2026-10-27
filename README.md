@@ -13,6 +13,7 @@ We provide a sample app using Ruby that you can deploy on App Platform. These st
 Click this button to deploy the app to the DigitalOcean App Platform. If you are not logged in, you will be prompted to log in with your DigitalOcean account.
 
 [![Deploy to DigitalOcean](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/digitalocean/sample-ruby/tree/main)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frobszumski%2Fsample-ruby.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frobszumski%2Fsample-ruby?ref=badge_shield)
 
 Using this button disables the ability to automatically re-deploy your app when pushing to a branch or tag in your repository as you are using this repo directly.
 
@@ -54,3 +55,6 @@ When you no longer need this sample application running live, you can delete it 
 3. In the **Settings** tab, click **Destroy**.
 
 **Note: If you do not delete your app, charges for using DigitalOcean services will continue to accrue.**
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frobszumski%2Fsample-ruby.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frobszumski%2Fsample-ruby?ref=badge_large)
